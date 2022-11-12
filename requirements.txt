@@ -6,6 +6,5 @@ keplergl
 leafmap
 localtileserver
 nbserverproxy
-streamlit
-streamlit-option-menu
+
 
